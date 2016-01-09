@@ -41,4 +41,5 @@
   <build>
     <finalName>SpringHelloWorldXmlExample</finalName>
   </build>
-</project>
+ 
+	</project>
