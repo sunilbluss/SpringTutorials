@@ -4,4 +4,3 @@ Servers/
 *.jar
 **/.classpath
 **/.settings
-script.sh
